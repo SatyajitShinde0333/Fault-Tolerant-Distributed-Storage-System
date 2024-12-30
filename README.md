@@ -41,12 +41,7 @@ $ run-tester.sh localhost:9001
 
 where the argument is the server hostport
 
-## RAFT implementation
 
-Reference paper:
-[chrome-extension://ihgdgpjankaehldoaimdlekdidkjfghe/viewer.html#https://raft.github.io/raft.pdf]
-
-[A great visulization of the algorithm can might be helpful](http://thesecretlivesofdata.com/raft/)
 
 ### Leader election
 
